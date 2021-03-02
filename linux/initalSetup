@@ -1,8 +1,0 @@
-#!/bin/bash
-
-echo "###Setting Up Reporter###"
-
-sudo apt install bzip2
-pip3 install pyfiglet
-
-tput setaf 2; echo "Finished Setting Up :)"
